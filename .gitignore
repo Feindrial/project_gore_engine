@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+#externals
+assimp
+glad
+GLFW
+glm
+KHR
+stb_image
+
+#build
+.vs
+CMakeLists.txt
